@@ -254,7 +254,8 @@ section{
     padding: 0 12px 0 0;
 }
 
-/* @media (max-width:1023px){
+@media (max-width:1023px){
+    body{padding: auto;}
     header{
         padding: 12px 20px;
     }
@@ -304,4 +305,4 @@ section{
         font-size: 10px;
     }
 }
-*/
+
