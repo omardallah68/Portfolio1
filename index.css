@@ -255,7 +255,9 @@ section{
 }
 
 @media (max-width:1023px){
-    body{padding: auto;}
+    body{
+        padding: auto;
+    }
     header{
         padding: 12px 20px;
     }
