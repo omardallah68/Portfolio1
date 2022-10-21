@@ -255,6 +255,10 @@ section{
 }
 
 @media (max-width:1023px){
+    body{
+        padding :10px;
+    }
+    
     header{
         padding: 12px 20px;
     }
