@@ -300,6 +300,7 @@ section{
 
     details{
         color: #3a6cf4;
+        display: flex;
     }
 
     details a{
@@ -307,7 +308,6 @@ section{
         font-size: 1.1em;
         font-weight: 500;
         padding-left: 30px;
-        display: block;
     }
 
     details a:hover{
