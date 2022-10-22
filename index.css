@@ -307,7 +307,7 @@ section{
         font-size: 1.1em;
         font-weight: 500;
         padding-left: 30px;
-        display: flex;
+        display: block;
     }
 
     details a:hover{
