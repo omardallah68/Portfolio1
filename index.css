@@ -302,9 +302,17 @@ section{
     }
 
     details{
+        color: #3a6cf4;
+        text-decoration: none;
+        font-size: 1.1em;
+        font-weight: 500;
+        padding-left: 30px;
         display: inline-block;
     }
 
+    details a:hover{
+        color: #601cfc;
+    }
 
     .main-content h2{
         font-size: 0.8em;
