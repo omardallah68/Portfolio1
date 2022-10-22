@@ -297,6 +297,15 @@ section{
         font-size: 12px;
     }
     
+    .navigation a{
+        display: none;
+    }
+
+    details{
+        display: inline-block;
+    }
+
+
     .main-content h2{
         font-size: 0.8em;
     }
@@ -304,14 +313,11 @@ section{
     .main-content h3{
         font-size: 1.4em;
     }
-    details{
-        display: inline-block;
-    }
-}
+    
 
 @media (max-width:300px){
     body{
         font-size: 10px;
     }
 }
-
+}
